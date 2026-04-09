@@ -13,7 +13,5 @@ print("Digite o terceiro número:");
     print("O número em ordem crescente é: $num");
   }else if(int.parse(num2!) > int.parse(num!) && int.parse(num2!) > int.parse(num3!)){
     print("O número em ordem crescente é: $num2");
-  }else{
-    print("O número em ordem crescente é: $num3");
   }
 }
