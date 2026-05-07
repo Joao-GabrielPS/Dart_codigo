@@ -18,7 +18,7 @@
   //idade2 = "Sistemas de Informação";
 
   var idade3;
-  idade3 = 50;
+  idade3 = 50; 
   print("A idade é: $idade3");
   idade3 = "Cinquenta";
   print("A idade é: $idade3");
