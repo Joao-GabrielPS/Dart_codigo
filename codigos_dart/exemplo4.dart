@@ -23,7 +23,7 @@ void main() {
 double calcularValorTotal(int dias, double diaria, double seguro) {
     double valorTotal = (dias * diaria) + seguro;
     return valorTotal;
- 
+
 }
 
 //funcao sem retorno e com parâmetros
